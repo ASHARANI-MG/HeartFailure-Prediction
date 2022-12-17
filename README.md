@@ -4,7 +4,7 @@ Machine Learning Project
 
 Heart Failure Prediction using Logistic Regression algorithm
 
-Pyqt5 is used for frontend,,jupyter notebook to run the code
+Pyqt5 is used for frontend and jupyter notebook to run the code
 
 Dataset-heart.csv
 
