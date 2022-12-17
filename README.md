@@ -1,4 +1,6 @@
-# Machine-Learning-project-2
+# Machine-Learning
+
+Machine Learning Project
 
 Heart Failure Prediction using Logistic Regression algorithm
 
